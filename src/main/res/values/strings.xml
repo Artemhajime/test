@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">calc</string>
+    <string name="toast_message">На ноль делить нельзя</string>
+    <string name="bu1">1</string>
+</resources>
